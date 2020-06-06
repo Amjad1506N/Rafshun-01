@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class AddNumbers{
 
           public void add(int a,int b){
-             c=a+b;
+            int c=a+b;
            System.out.println("Addition"+c);
          }
         
